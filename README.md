@@ -3,4 +3,7 @@ A simple Android application made in Kotlin by using Retrofit library to get wea
 
 # Screenshot
 
-![](images/minion.png)
+![](images/01.png)
+
+
+![](images/02.png)
